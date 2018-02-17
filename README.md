@@ -1,5 +1,5 @@
 # Blockchain_concept_python
-This repo contains a notebook I created when I learned about blockchain technology. 
+This repository contains a notebook I created when I learned about blockchain technology. 
 
 # Prerequisites
 - To understand this notebook you need to have basic knowledge in python progrmming language.
