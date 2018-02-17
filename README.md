@@ -16,4 +16,4 @@ This repo contains a notebook I created when I learned about blockchain technolo
 # What is not important
 You don't need to to usderstand any hash algorithm, understanding hash surficially is enough.
 
-email=> wazzree@gmail.com 
+Contribute by forking the repository and sending the pull request. email=> wazzree@gmail.com 
