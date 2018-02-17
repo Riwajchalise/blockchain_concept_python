@@ -13,7 +13,7 @@ This repo contains a notebook I created when I learned about blockchain technolo
 	- Run jupyter notebook `$ jupyter-notebook`
 	- You need python3 kernel
 
-# What not important
+# What is not important
 You don't need to to usderstand any hash algorithm, understanding hash surficially is enough.
 
 email=> wazzree@gmail.com 
