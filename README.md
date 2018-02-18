@@ -5,7 +5,7 @@ This repository contains a notebook I created when I learned about blockchain te
 - To understand this notebook you need to have basic knowledge in python programming language.
 
 # How to use this notebook
-- You can view any notebook directly by clicking the individual notebook
+- You can view the notebook by clicking on [https://github.com/Riwajchalise/blockchain_concept_python/blob/master/Bockchain_Introduction.ipynb](Bockchain_Introduction.ipynb) file.
 - To view the notebook in your local machine:
 	- For that first clone the repo: `$ git clone git@github.com:Riwajchalise/blockchain_concept_python.git`
 	- Install Jypyter Notebook **Stand alone** [http://jupyter.org/](http://jupyter.org/) or use [https://anaconda.org/](anaconda's) Jupyter Notebook.
