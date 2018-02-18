@@ -1,5 +1,5 @@
 # Blockchain_concept_python
-I have tried to cover the basic theoretical and technical concept side by side I the notebook. 
+In this notebook I have tried to cover the basic theoretical and technical concept side by side. 
 
 # Prerequisites
 - To understand this notebook you need to have basic knowledge in python programming language.
