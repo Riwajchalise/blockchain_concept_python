@@ -2,7 +2,7 @@
 This repository contains a notebook I created when I learned about blockchain technology. 
 
 # Prerequisites
-- To understand this notebook you need to have basic knowledge in python progrmming language.
+- To understand this notebook you need to have basic knowledge in python programming language.
 
 # How to use this notebook
 - You can view any notebook directly by clicking the individual notebook
